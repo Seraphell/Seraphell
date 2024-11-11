@@ -1,0 +1,5 @@
+- Hello, I’m @Seraphell
+- I'm primairly a c# and c++ developer
+- Currently working on a few godot and open source software projects
+- Pronouns: He/Him/His
+- (VS > VSC)
